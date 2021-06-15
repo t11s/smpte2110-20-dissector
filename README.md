@@ -3,7 +3,7 @@ SMPTE ST 2110-20 dissector
 
 Wireshark dissector in Lua for SMPTE ST 2110-20 data in RTP
 
-Project Lead: Thomas Edwards (thomas.edwards@disney.com)
+Project Lead: Thomas Edwards (AWS)
 
 to use in Wireshark:
 
